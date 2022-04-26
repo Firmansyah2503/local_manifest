@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+<!-- Trees -->
+
+<project path="device/r5x" name="Firmansyah2520/device_realme_r5x.git" remote="github" revision="Awaken" />
+
+<project path="vendor/r5x" name="iamlordutkarsh/vendor_realme_r5x.git" remote="github" revision="ppui" />
+
+<project path="kernel/r5x" name="Firmansyah2520/kernel_realme_r5x.git" remote="github" revision="eleven" />
+
+</manifest>
